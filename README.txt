@@ -12,4 +12,4 @@
 
 créer un script en Javascript qui modifie 
 les paramètres de l'image : Niveaux de gris, Teinte, Ombre,
- l'espacement, et le Brouiller. en récupérant la valeur récupérer.
+ l'espacement, et le Brouiller. en récupérant la valeur de souris.
